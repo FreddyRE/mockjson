@@ -1,9 +1,44 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "TERRENO": {
+    "Inicio Prog.": 37637,
+    "Antes de Recep.Mun.": 37637,
+    "Con Recep. Mun.": 0,
+    "__1": ""
+  },
+  "AV.OBRAS": {
+    "Inicio Prog.": 0,
+    "Antes de Recep.Mun.": 51787,
+    "Con Recep. Mun.": 0,
+    "__1": ""
+  },
+  "VALOR PROY. TERMINADO": {
+    "Inicio Prog.": 0,
+    "Antes de Recep.Mun.": 0,
+    "Con Recep. Mun.": 135079.98,
+    "__1": ""
+  },
+  "BOLETAS GTIA URBAN": {
+    "Inicio Prog.": 0,
+    "Antes de Recep.Mun.": 0,
+    "Con Recep. Mun.": 0,
+    "__1": ""
+  },
+  "ANTICIPO": {
+    "Inicio Prog.": 7000,
+    "Antes de Recep.Mun.": 7726.69,
+    "Con Recep. Mun.": 7726.69,
+    "__1": ""
+  },
+  "CREDITO SEGUN AV. DE OBRAS": {
+    "Inicio Prog.": 0,
+    "Antes de Recep.Mun.": 47111.73,
+    "Con Recep. Mun.": 47111.73,
+    "__1": ""
+  },
+  "CREDITO CON RECEP. MUN.": {
+    "Inicio Prog.": 0,
+    "Antes de Recep.Mun.": 0,
+    "Con Recep. Mun.": 0,
+    "__1": ""
+  }
 }
